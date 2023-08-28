@@ -1,1 +1,10 @@
-# Ch.Sity-Telangana
+<h3 style="color:Tomato;">Network:-Empty</h3>
+<p style="color:DodgerBlue;">Name:-Empty</p>
+<p style="color:DodgerBlue;">Mobile Number:-Empty</p>
+<p style="color:DodgerBlue;">City:-Empty</p>
+
+<body style="background-color:black;">
+</body>
+
+<video class="video_player" id="player" width="100%" controls="controls" autoplay="autoplay">
+<source src="http://cloud.streamplay.in:1935/ccc/ccc/playlist.m3u8"/>
